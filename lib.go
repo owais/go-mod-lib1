@@ -1,5 +1,5 @@
 package lib1
 
-func name() string {
+func Name() string {
 	return "lib1"
 }
